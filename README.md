@@ -2,9 +2,7 @@
 
 An efficient and elegant way of listing proceses running on the system using a kernel module. Once kenrel module is loaded, we can check the kernel log for the process names along with it's process ID. Spaces indicate the process is a child of the above process (think of indentation in python). The DFS algorithm is used in this project.  
 
-![image](https://github.com/suvan362/Kernel-module/assets/40496225/d8c0e5a3-bea0-4d80-8d00-67609122eff4)
-
-
+![image](https://github.com/suvan362/Kernel-module/assets/40496225/3978cff8-a386-42d7-933d-31200053c695)
 
 ![image](https://github.com/suvan362/Kernel-module/assets/40496225/9917020f-5cbf-4e64-993b-eb4af674444d)
 
